@@ -1,0 +1,23 @@
+{
+    "idf.adapterTargetName": "esp32c3",
+    "idf.flashType": "UART",
+    "idf.portWin": "COM8",
+    "idf.port": "/dev/ttyACM0",
+    "files.associations": {
+        "stdio.h": "c",
+        "string.h": "c",
+        "freertos.h": "c",
+        "task.h": "c",
+        "esp_system.h": "c",
+        "gpio.h": "c",
+        "esp_attr.h": "c",
+        "esp_intr_alloc.h": "c",
+        "gpio_periph.h": "c",
+        "esp_types.h": "c",
+        "esp_bit_defs.h": "c",
+        "nvs_flash.h": "c",
+        "ds18b20.h": "c",
+        "*.tcc": "c",
+        "ratio": "c"
+    }
+}
